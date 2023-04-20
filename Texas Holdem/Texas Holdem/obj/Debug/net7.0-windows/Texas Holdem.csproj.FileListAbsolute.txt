@@ -1,0 +1,34 @@
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\bin\Debug\net7.0-windows\Texas Holdem.exe
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\bin\Debug\net7.0-windows\Texas Holdem.deps.json
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\bin\Debug\net7.0-windows\Texas Holdem.runtimeconfig.json
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\bin\Debug\net7.0-windows\Texas Holdem.dll
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\bin\Debug\net7.0-windows\Texas Holdem.pdb
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.csproj.AssemblyReference.cache
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas_Holdem.Form1.resources
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.csproj.GenerateResource.cache
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.AssemblyInfoInputs.cache
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.AssemblyInfo.cs
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.csproj.CoreCompileInputs.cache
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.dll
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\refint\Texas Holdem.dll
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.pdb
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.genruntimeconfig.cache
+C:\Users\OPEMISCO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\ref\Texas Holdem.dll
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\bin\Debug\net7.0-windows\Texas Holdem.exe
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\bin\Debug\net7.0-windows\Texas Holdem.deps.json
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\bin\Debug\net7.0-windows\Texas Holdem.runtimeconfig.json
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\bin\Debug\net7.0-windows\Texas Holdem.dll
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\bin\Debug\net7.0-windows\Texas Holdem.pdb
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.csproj.AssemblyReference.cache
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas_Holdem.Form1.resources
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.csproj.GenerateResource.cache
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.AssemblyInfoInputs.cache
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.AssemblyInfo.cs
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.csproj.CoreCompileInputs.cache
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.dll
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\refint\Texas Holdem.dll
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.pdb
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\Texas Holdem.genruntimeconfig.cache
+C:\Users\OLAGO\OneDrive\Documents\U of M\C sharp\C-sharp\Texas Holdem\Texas Holdem\obj\Debug\net7.0-windows\ref\Texas Holdem.dll

@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="Snake_FinalProject.GameOverPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Snake_FinalProject"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid FocusVisualSecondaryBrush="#99333131">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF902C27" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock x:Name="GameOverTextBlock" HorizontalAlignment="Center" Margin="0,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Baskerville Old Face" FontWeight="Bold" FontSize="36" Foreground="White">
+            GAME OVER LOSER!!!
+            <LineBreak/>
+               YOU SUCK!!!
+            <LineBreak/>
+               TRY AGAIN!!!
+        </TextBlock>
+
+        <Button x:Name="Try_Again_Button" Content="Try Again" Margin="0,357,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.823,2.062" HorizontalAlignment="Center" Click="Try_Again_Button_Click" Background="#33FFFFFF" Width="286"/>
+    </Grid>
+
+
+
+</Page>

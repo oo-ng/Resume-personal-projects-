@@ -1,0 +1,126 @@
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\App.xbf
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\MainPage.xbf
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\Snake_FinalProject.xr.xml
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\Snake_FinalProject.exe
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\Snake_FinalProject.pdb
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\resources.pri
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\AppxManifest.xml
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\Core\Snake_FinalProject.exe
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\Snake_FinalProject.build.appxrecipe
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\System.Runtime.dll
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\Snake_FinalProject.csproj.AssemblyReference.cache
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\App.g.i.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\App.g.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\MainPage.g.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\App.xaml
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\MainPage.xaml
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\App.xbf
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\MainPage.xbf
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\Snake_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\Snake_FinalProject.csproj.CopyComplete
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\Snake_FinalProject.exe
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\Snake_FinalProject.pdb
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\priconfig.xml
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\resources.resfiles
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\pri.resfiles
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\qualifiers.txt
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637552364420000000.json
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\FrontMenuPage.xbf
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\FrontMenuPage.g.i.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\FrontMenuPage.g.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\FrontMenuPage.xaml
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\FrontMenuPage.xbf
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\CreditsPage.xbf
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\CreditsPage.g.i.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\CreditsPage.g.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\CreditsPage.xaml
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\CreditsPage.xbf
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\App.xbf
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\CreditsPage.xbf
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\FrontMenuPage.xbf
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\MainPage.xbf
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\Snake_FinalProject.xr.xml
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\Snake_FinalProject.exe
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\Snake_FinalProject.pdb
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\resources.pri
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\AppxManifest.xml
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\Core\Snake_FinalProject.exe
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\Snake_FinalProject.build.appxrecipe
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\System.Runtime.dll
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\Snake_FinalProject.csproj.AssemblyReference.cache
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\App.g.i.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\App.g.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\CreditsPage.g.i.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\CreditsPage.g.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\FrontMenuPage.g.i.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\FrontMenuPage.g.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\MainPage.g.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\App.xaml
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\CreditsPage.xaml
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\FrontMenuPage.xaml
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\MainPage.xaml
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\App.xbf
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\CreditsPage.xbf
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\FrontMenuPage.xbf
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\MainPage.xbf
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\Snake_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\Snake_FinalProject.csproj.CopyComplete
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\Snake_FinalProject.exe
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\Snake_FinalProject.pdb
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\priconfig.xml
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\resources.resfiles
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\pri.resfiles
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\qualifiers.txt
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637552364420000000.json
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\bin\x64\Debug\GameOverPage.xbf
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\GameOverPage.g.i.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\GameOverPage.g.cs
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\GameOverPage.xaml
+C:\Users\OPEMISCO\Desktop\SNAKE OPES COPY\obj\x64\Debug\GameOverPage.xbf
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\bin\x64\Debug\GameOverPage.xbf
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\GameOverPage.g.i.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\GameOverPage.g.cs
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\GameOverPage.xaml
+C:\Users\OPEMISCO\Documents\GitHub\C-sharp\cis297-winter2023-finalproject-oo-ng\Snake_FinalProject\obj\x64\Debug\GameOverPage.xbf
